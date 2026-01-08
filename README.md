@@ -98,33 +98,6 @@ Only works when the terminal window is active.
 export LD_LIBRARY_PATH=/opt/nvidia/hpc_sdk/Linux_x86_64/25.9/cuda/13.0/targets/x86_64-linux/lib:$LD_LIBRARY_PATH
 ./venv/bin/python3 interact_precise.py
 ```
-
----
-
-## Modes
-
-Press **`Tab`** to cycle through 6 distinct generative environments:
-
-1.  **Harmonious (Zen)** 🧘
-    *   *Sound*: Soft Triangle waves.
-    *   *Logic*: **Pentatonic Scale**. No matter what you type, it produces a consonant, musical melody. Perfect for flow state.
-2.  **Mechanical (Typewriter)** ⌨️
-    *   *Sound*: Crisp, percussive clicks (Noise).
-    *   *Physics*: **One-Shot Envelope**. Mimics a physical switch with a sharp 50ms decay. Highly tactile and satisfying.
-3.  **8-Bit Arcade** 👾
-    *   *Sound*: Square waves.
-    *   *Logic*: Chromatic mapping. Sounds like a retro Gameboy soundtrack.
-4.  **Crystal (Glass)** 🔮
-    *   *Sound*: Sine waves (High Octave).
-    *   *Logic*: Ethereal chimes for a delicate atmosphere.
-5.  **Sci-Fi (Dystopian)** 🛸
-    *   *Sound*: Sawtooth drones (Low Octave).
-    *   *Logic*: Deep, rumbling bass textures.
-6.  **MASSIVE GPU (Orchestral)** 🎻
-    *   *Sound*: Thick, luscious SuperSaw pads.
-    *   *Physics*: **ADSR Envelopes**. Notes swell in slowly (500ms attack) and fade out gracefully (1s release). 
-    *   *Power*: **1,024 Oscillators per Key**. A simple 3-note chord generates 3,072 oscillators in real-time, showcasing raw GPU parallel processing.
-
 ---
 
 ## Under the Hood: Hybrid Architecture
