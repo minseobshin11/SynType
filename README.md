@@ -9,7 +9,7 @@ Transform your keyboard into a fast, responsive instrument with 5 unique generat
 
 *   **Zero-Latency Response**: Uses `pynput` and C++ bindings for immediate audio feedback.
 *   **GPU DSP**: All 32+ voices are synthesized in parallel using NVIDIA CUDA kernels.
-*   **5 Generative Modes**: From ambient Zen music to clicky mechanical switches.
+*   **6 Generative Modes**: From ambient Zen music to clicky mechanical switches.
 *   **Full Keyboard Support**: Every key (letters, numbers, tabs, modifiers) produces sound.
 
 ## Modes
