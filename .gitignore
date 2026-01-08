@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Build Artifacts
+*.o
+*.so
+gpu_synth
+syntype
+build/
+
+# IDE / System
+.vscode/
+.DS_Store
