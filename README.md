@@ -1,5 +1,5 @@
 # SynType 🌊🎹
-> *Formerly GPU-Accelerated Synthesizer*
+> *GPU-Accelerated Generative Keyboard*
 
 A real-time, low-latency synthesizer that turns your typing into music and sound effects. Powered by **CUDA** for massive polyphony and **Python** for flexible control.
 
