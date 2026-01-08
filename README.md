@@ -3,7 +3,7 @@
 
 A real-time, low-latency synthesizer that turns your typing into music and sound effects. Powered by **CUDA** for massive polyphony and **Python** for flexible control.
 
-Transform your keyboard into a fast, responsive instrument with 5 unique generative modes.
+Transform your keyboard into a fast, responsive instrument with 6 unique generative modes.
 
 ## features
 
